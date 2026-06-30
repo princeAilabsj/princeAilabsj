@@ -57,3 +57,9 @@
   <img src="https://komarev.com/ghpvc/?username=princeAilabsj&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
+### 🛠 Skills & Expertise
+| Skill Category | Technologies |
+| :--- | :--- |
+| **Security** | Offensive Security, Network Auditing |
+| **Programming** | Python |
+| **DevOps/OS** | Docker, Linux |
