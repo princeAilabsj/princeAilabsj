@@ -58,6 +58,7 @@
 
 </div>
 ### 🛠 Skills & Expertise
+
 | Skill Category | Technologies |
 | :--- | :--- |
 | **Security** | Offensive Security, Network Auditing |
