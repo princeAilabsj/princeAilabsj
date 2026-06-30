@@ -33,3 +33,27 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princeAilabsj&theme=radical&no-frame=true&row=1" alt="princeAilabsj's Trophies" />
 </div>
+<div align="center">
+  
+  ### 🚀 Welcome to my developer space!
+  
+  <p align="center">
+    <b>"Hardworking Developer in the making. Transforming ideas into code."</b>
+  </p>
+
+  ### 🛠 Tech Stack
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=security-scorecard&logoColor=white" />
+  </p>
+
+  ### 📈 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=princeAilabsj&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=princeAilabsj&theme=radical&no-frame=true&row=1" />
+
+  ---
+  <img src="https://komarev.com/ghpvc/?username=princeAilabsj&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
