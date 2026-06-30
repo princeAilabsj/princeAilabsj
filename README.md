@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🛡️ Prince Kashyap | Security Architect
 
-<!--
-**princeAilabsj/princeAilabsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princeAilabsj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeAilabsj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠 The Architect's Desk
+*   **Philosophy:** "Hardened code, not just written."
+*   **Vision:** Building infrastructure that doesn't just hold up—it pushes back.
+*   **Current Pursuit:** Automating offensive logic to eliminate security bottlenecks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Technical Proficiency
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Architecture-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive_Security-D32F2F?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
+
+> *"Security is not a feature, it's a foundation."*
