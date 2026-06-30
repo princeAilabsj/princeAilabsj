@@ -1,22 +1,19 @@
-# 🛡️ Prince Kashyap | Security Architect
+### **Tools & Technologies**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeAilabsj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeAilabsj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<p align="left">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Security_architecture">
+    <img src="https://img.shields.io/badge/Security%20Architecture-000000?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Security Architecture" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Offensive_security">
+    <img src="https://img.shields.io/badge/Offensive%20Security-E31C25?style=for-the-badge&logo=kali&logoColor=white" alt="Offensive Security" />
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+   <a href="https://www.docker.com">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
 </p>
-
-### 🛠 The Architect's Desk
-*   **Philosophy:** "Hardened code, not just written."
-*   **Vision:** Building infrastructure that doesn't just hold up—it pushes back.
-*   **Current Pursuit:** Automating offensive logic to eliminate security bottlenecks.
-
----
-
-### 💼 Technical Proficiency
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Architecture-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offensive_Security-D32F2F?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</p>
-
-> *"Security is not a feature, it's a foundation."*
