@@ -64,3 +64,9 @@
 | **Security** | Offensive Security, Network Auditing |
 | **Programming** | Python |
 | **DevOps/OS** | Docker, Linux |
+### 🚀 About Me
+मैं एक Security Architect हूँ, जो Offensive Security और Resilient System Design का जुनून रखता हूँ। मेरा लक्ष्य कॉम्प्लेक्स समस्याओं को कोड के जरिए हल करना और डिजिटल इकोसिस्टम को अभेद्य बनाना है। मैं केवल काम नहीं करता, मैं सिस्टम्स के साथ "खेलता" हूँ ताकि वे और भी मज़बूत बन सकें।
+
+- 🔭 मैं अभी **Aegis-Network-Engine** जैसे एडवांस्ड सिक्योरिटी टूल्स को डेवलप कर रहा हूँ।
+- 💬 आप मुझसे Security Architecture और Offensive Logic पर चर्चा कर सकते हैं।
+- ⚡ **मोटो:** Engineering for perfection, coding for resilience.
